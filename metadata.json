@@ -1,0 +1,8 @@
+{
+  "name": "Supabase Knowledge Base & Vector Store",
+  "description": "A high-performance file uploader and knowledge base manager that uses Gemini AI for text processing and Supabase for vector embeddings and storage, enabling RAG (Retrieval-Augmented Generation) workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
